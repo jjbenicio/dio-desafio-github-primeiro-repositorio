@@ -1,0 +1,1 @@
+O git hub é um terminal extendido para otimizar a utilização do git
